@@ -11,13 +11,14 @@ html {
 }
 
 a {
+  display: inline-block;
   font-family: sans-serif;
   text-decoration: none;
   color: #fff;
   background-color: #713837;
-  border: 1px solid #713837;
   padding: .6em .5em;
   border-radius: 5px;
+  border: 2px solid #713837;
 }
 
 header {
@@ -29,6 +30,7 @@ header {
 
 ol {
   list-style-type: none;
+  text-align: center;
 }
 
 h1 {
@@ -38,4 +40,14 @@ h1 {
 
 li {
   display: inline-block;
+  margin: .3em;
+}
+
+a:hover {
+  background-color: #f33;;
+  border-color: #f33;
+}
+
+body {
+  margin:0;
 }
