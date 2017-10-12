@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: 'Bevan', sans-serif;
+  font-family: Georgia, serif;
   line-height: 1.5;
   background-color: #dbd6cf;
   color: #fff;
@@ -29,7 +29,7 @@ header {
   padding: .6em;
 }
 
-ol {
+ul {
   list-style-type: none;
   text-align: center;
 }
@@ -37,6 +37,7 @@ ol {
 h1 {
   text-align: center;
   margin: .3em;
+  font-family: Bevan, sans-serif;
 }
 
 li {
@@ -45,10 +46,10 @@ li {
 }
 
 a:hover {
-  background-color: #f33;;
+  background-color: #f33;
   border-color: #f33;
 }
 
 body {
-  margin:0;
+  margin: 0;
 }
