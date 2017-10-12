@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: Georgia, serif;
+  font-family: "Georgia", serif;
   line-height: 1.5;
   background-color: #dbd6cf;
   color: #fff;
@@ -37,7 +37,7 @@ ul {
 h1 {
   text-align: center;
   margin: .3em;
-  font-family: Bevan, sans-serif;
+  font-family: "Bevan", sans-serif;
 }
 
 li {
