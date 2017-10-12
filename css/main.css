@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: "Bevan", cursive;
+  font-family: Bevan, cursive;
   line-height: 1.5;
   background-color: #dbd6cf;
   color: #fff;
@@ -18,7 +18,7 @@ a {
   background-color: #713837;
   padding: .5em .75em;
   border-radius: 5px;
-  border: 2px solid #713837;
+  border: 0 solid #713837;
 }
 
 header {
@@ -26,18 +26,18 @@ header {
   border: 3px solid #595652;
   margin: 0;
   width: 100%;
-  padding: .6em;
 }
 
 ul {
   list-style-type: none;
   text-align: center;
+  margin: .3em;
 }
 
 h1 {
   text-align: center;
-  margin: .3em;
-  font-family: "Bevan", cursive;
+  font-family: Bevan, sans-serif;
+  margin: 0;
 }
 
 li {
