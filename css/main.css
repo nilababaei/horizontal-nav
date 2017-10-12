@@ -13,9 +13,29 @@ html {
 a {
   font-family: sans-serif;
   text-decoration: none;
-  list-style-type: none;
+  color: #fff;
+  background-color: #713837;
+  border: 1px solid #713837;
+  padding: .6em .5em;
+  border-radius: 5px;
 }
 
 header {
   background-color: #79756f;
+  border: 3px solid #595652;
+  margin: 0;
+  width: 100%;
+}
+
+ol {
+  list-style-type: none;
+}
+
+h1 {
+  text-align: center;
+  margin: .3em;
+}
+
+li {
+  display: inline-block;
 }
