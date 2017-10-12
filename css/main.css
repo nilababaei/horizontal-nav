@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Bevan', sans-serif;
+  line-height: 1.5;
+  background-color: #dbd6cf;
+  color: #fff;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+a {
+  font-family: sans-serif;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+header {
+  background-color: #79756f;
+}
