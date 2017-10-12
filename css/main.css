@@ -16,7 +16,7 @@ a {
   text-decoration: none;
   color: #fff;
   background-color: #713837;
-  padding: .6em .5em;
+  padding: .5em .75em;
   border-radius: 5px;
   border: 2px solid #713837;
 }
@@ -26,6 +26,7 @@ header {
   border: 3px solid #595652;
   margin: 0;
   width: 100%;
+  padding: .6em;
 }
 
 ol {
